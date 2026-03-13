@@ -1,2 +1,2 @@
 Hi
-This is practice repo
+This is the practice repo
