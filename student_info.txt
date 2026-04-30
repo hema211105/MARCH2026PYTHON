@@ -1,0 +1,6 @@
+Age: 17
+GPA: 3.85 
+subjects:
+ - Math
+ - Science
+ - Python
